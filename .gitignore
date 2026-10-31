@@ -1,0 +1,19 @@
+# Datasets (kept locally, not published)
+data/
+
+# Reports, slides and other PDFs (kept locally, not published)
+report/
+*.pdf
+
+# Generated output
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Prediction files written by the notebooks
+*.npy
